@@ -1,0 +1,9 @@
+{
+  "name": "kwhitejr-homepage",
+  "version": "1.0.0",
+  "description": "A homepage for kwhitejr.",
+  "main": "index.js",
+  "repository": "git@github.com:kwhitejr/kwhitejr-homepage.git",
+  "author": "Kevin White",
+  "license": "MIT"
+}
